@@ -160,4 +160,13 @@ img {
     .lessons .col{
         width: 100%;
     }
+
+    .steps {
+        margin-bottom: 0;
+    }
+
+    .why-us {
+        background-color: rgb(54, 54, 54);
+        padding: 30px;
+    }
  }
